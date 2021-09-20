@@ -16,3 +16,12 @@
 - [ ] Página Contacto (/contacto)
 - [ ] Página LogIn (/auth/login)
 - [ ] Página NuevaTransaccion ruta (/transaction/new)
+
+
+## Página para una transacción
+
+- [ ] Página Transaccion ruta (/transaction/:id)
+- [ ] Usar Activated Route para obtener el valor del parámetro id
+- [ ] Un servicio común que tenga el array de transacciones
+- [ ] Declara dependencia al servicio en los componentes
+- [ ] Buscar la tranasacción y mostrarla
