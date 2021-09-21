@@ -25,3 +25,11 @@
 - [ ] Un servicio común que tenga el array de transacciones
 - [ ] Declara dependencia al servicio en los componentes
 - [ ] Buscar la tranasacción y mostrarla
+
+## Acceso a servicio web
+
+- [ ] Consumo de API https://proton-angular-builders.herokuapp.com/v1/transactions 
+- [ ] GET all y GET byId
+- [ ] Intento de POST, PUT y DELETE
+- [ ] Gestión de errores
+- [ ] Gestión de esperas
